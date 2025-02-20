@@ -1,0 +1,10 @@
+jupyter
+notebook
+torch
+transformers
+scikit-learn
+matplotlib
+numpy
+pandas
+tqdm
+huggingface_hub
